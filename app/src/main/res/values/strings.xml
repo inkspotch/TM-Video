@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TM</string>
+    <string name="getting_your_recipe">Getting your tasting recipe</string>
+    <string name="ingredients">Ingredients</string>
+</resources>
